@@ -1,0 +1,2 @@
+ALTER TABLE Buses
+DROP COLUMN Ac_Available;
