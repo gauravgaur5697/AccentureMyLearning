@@ -1,0 +1,4 @@
+mkdir -p livingthings/{birds/{flyingbirds,nonflyingbirds},plants,animals/{mammals,reptiles}}
+touch livingthings/birds/{flyingbirds/{stork,eagle,eider},nonflyingbirds/{kiwi,ostrich,penguin}}
+touch livingthings/plants/{carrot,cabbage,daisy}
+touch livingthings/animals/{mammals/{jaguar,dog,tiger},reptiles/{alligator,skink,turtle}}

@@ -1,0 +1,1 @@
+grep "lin" teknoscript.txt
