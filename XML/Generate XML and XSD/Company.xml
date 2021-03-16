@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<company>
+    <companyname>abc</companyname>
+    <address>hyd</address>
+    <department>
+        <dname>xyz</dname>
+        <deptphoneno>123</deptphoneno>
+        <deptfaxno>98736763</deptfaxno>
+        <deptemail>asdf@gmail.com</deptemail>
+        <employee>
+            <empid>345</empid>
+            <ename>fwfm</ename>
+            <emailid>yui@gmail.com</emailid>
+            <phoneno>9877283</phoneno>
+        </employee>
+        <contractemployee>
+            <name>yst</name>
+            <phoneno>73762948</phoneno>
+        </contractemployee>
+    </department>
+</company>
