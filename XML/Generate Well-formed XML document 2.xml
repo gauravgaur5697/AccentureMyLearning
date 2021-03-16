@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person>
+        <name>AKANKSHA</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <address>
+            <doorno>124</doorno>
+            <street>lalstreet</street>
+            <city>kolkata</city>
+            <state>West bengal</state>
+        </address>
+        <student>
+            <rollno>34</rollno>
+            <standard>12</standard>
+            <section>str</section>
+        </student>
+    </person>
+</persons>

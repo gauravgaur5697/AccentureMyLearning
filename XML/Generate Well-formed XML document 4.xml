@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creditcard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="creditcard.xsd">
+    <card>
+        <cardnumber>12345</cardnumber>
+        <fname>Akanksha</fname>
+        <lname>Deb</lname>
+        <address>lal street</address>
+        <limit>3</limit>
+    <statement>
+        <stateid>1234</stateid>
+        <statedate>1997-09-09</statedate>
+        
+    <statecharge>
+        <cid>shivangi</cid>
+        <camount>90000.01</camount>
+        <cdate>2022-03-23</cdate>
+        <cbusiness>busy</cbusiness>
+    </statecharge>
+    </statement>
+    </card>
+</creditcard>
