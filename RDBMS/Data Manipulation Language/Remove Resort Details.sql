@@ -1,0 +1,2 @@
+DELETE FROM Resort 
+WHERE ResortID=1002;
