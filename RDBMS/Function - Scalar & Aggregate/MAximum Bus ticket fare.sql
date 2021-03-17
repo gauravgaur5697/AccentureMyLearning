@@ -1,0 +1,1 @@
+SELECT MAX(fare) as Maximum_Amount FROM Tickets;
